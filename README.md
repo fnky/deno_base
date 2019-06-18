@@ -2,10 +2,10 @@
 
 A boilerplate project for [Deno](https://github.com/denoland/deno) modules and programs.
 
-- Run scripts with [Yarn](https://yarnpkg.com/en/) or [npm](https://www.npmjs.com/)
-- Lint files with [ESLint](https://eslint.org/)
-- Format files with [Prettier](https://prettier.io/)
-- Check types with TypeScript compiler
+- Run scripts with [Yarn](https://yarnpkg.com/en/) or [npm](https://www.npmjs.com/).
+- Lint files with [ESLint](https://eslint.org/).
+- Format files with [Prettier](https://prettier.io/).
+- Check types with TypeScript compiler.
 - Write and run tests with [Deno's standard testing library](https://github.com/denoland/deno_std/tree/master/testing).
 
 ## Getting Started
