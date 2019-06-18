@@ -1,9 +1,10 @@
 # deno_base
 
-A minimal boilerplate for modules and programs written for [Deno](https://github.com/denoland/deno).
+A boilerplate project for [Deno](https://github.com/denoland/deno) modules and programs.
 
-- Running scripts with yarn or npm
-- Linting with ESLint
+- Run scripts with [Yarn](https://yarnpkg.com/en/) or [npm](https://www.npmjs.com/)
+- Lint files with [ESLint](https://eslint.org/)
+- Check types with TypeScript compiler
 - Write and run tests with [Deno's standard testing library](https://github.com/denoland/deno_std/tree/master/testing).
 
 ## Getting Started
