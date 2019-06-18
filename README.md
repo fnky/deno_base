@@ -4,15 +4,18 @@ A boilerplate project for [Deno](https://github.com/denoland/deno) modules and p
 
 - Run scripts with [Yarn](https://yarnpkg.com/en/) or [npm](https://www.npmjs.com/)
 - Lint files with [ESLint](https://eslint.org/)
+- Format files with [Prettier](https://prettier.io/)
 - Check types with TypeScript compiler
 - Write and run tests with [Deno's standard testing library](https://github.com/denoland/deno_std/tree/master/testing).
 
 ## Getting Started
 
-Clone this repository to a custom directory
+Clone this repository to a custom directory and run `yarn` or `npm install`.
 
 ```sh
 git clone https://github.com/fnky/deno_base.git new_project
+cd new_project
+yarn # or npm install
 ```
 
 ## Keeping up-to-date
