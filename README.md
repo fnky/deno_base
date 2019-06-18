@@ -28,7 +28,7 @@ git remote -v
 
 And then fetch and merge changes from upstream, whenver you want.
 
-```
+```sh
 # Fetch all commits from upstream
 git fetch upstream master
 # See changes between current branch and upstream branch
@@ -41,7 +41,7 @@ git merge upstream/master
 
 1. Create a file and name it something like `example_test.ts`.
 2. Import the test inside `tests.ts`.
-    ```
+    ```ts
     import "./example_test.ts";
     ```
 3. Run `yarn test`.
